@@ -1,0 +1,12 @@
+{
+  "description": "Documentation website for is-a.dev",
+  "repo": "https://github.com/phinehaskiromo/modakenya/tree/main/modakenya3",
+  "owner": {
+    "username": "snowpiercer001",
+    "email": "phinehask8@gmail.com"
+  },
+  "records": {
+    "CNAME": "https://github.com/phinehaskiromo"
+  },
+  "proxied": true
+}
